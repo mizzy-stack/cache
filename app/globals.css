@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+:root {
+  --background: #e9c5c1;
+  --foreground: #17201e;
+  --surface: #eac8c3;
+  --surface-soft: #cfe7d7;
+  --border: #b18a84;
+  --primary: #0f7a5f;
+  --primary-foreground: #d8eadf;
+  --accent: #d12b2b;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-surface: var(--surface);
+  --color-surface-soft: var(--surface-soft);
+  --color-border: var(--border);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-accent: var(--accent);
+}
+
+body {
+  background: var(--background);
+  background-image: linear-gradient(125deg, #dca09a 0%, #d2877f 42%, #9bc2a8 100%);
+  background-attachment: fixed;
+  color: var(--foreground);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.site-shell {
+  background-image:
+    radial-gradient(circle at 0% 0%, rgba(209, 43, 43, 0.34), transparent 34%),
+    radial-gradient(circle at 100% 100%, rgba(209, 43, 43, 0.3), transparent 36%),
+    radial-gradient(circle at 65% 22%, rgba(15, 122, 95, 0.34), transparent 32%);
+}
+
+[dir="rtl"] {
+  text-align: right;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}

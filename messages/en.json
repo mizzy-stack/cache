@@ -1,0 +1,257 @@
+{
+  "nav": {
+    "home": "Home",
+    "donate": "Donate",
+    "requestHelp": "Request Help",
+    "offerHelp": "Offer Help",
+    "updates": "Updates",
+    "transparency": "Transparency",
+    "privacy": "Privacy",
+    "contact": "Contact",
+    "switchLanguage": "Switch language"
+  },
+  "footer": {
+    "line1": "LB Relief is a volunteer initiative focused on private, dignified support."
+  },
+  "home": {
+    "heroTitle": "Support for displaced families in Lebanon",
+    "heroSubtitle": "Request help, offer housing, or support families with donations",
+    "lead": "Following the recent conflict, families across Lebanon have been affected, with the most severe impact felt in the South and in parts of Beirut. Many communities were forced to evacuate due to widespread bombardment and escalating insecurity. Thousands of families are now displaced, with many facing homelessness and the sudden loss of income. Immediate needs include safe shelter, food, clean water, blankets, hygiene supplies, and essential items for children and older adults.",
+    "ctaDonate": "Donate",
+    "ctaRequestHelp": "Request Help",
+    "ctaOfferHelp": "Offer Help",
+    "ctaVolunteer": "Volunteer",
+    "formPending": "Form is being set up",
+    "cards": {
+      "directSupport": {
+        "title": "Direct emergency assistance",
+        "description": "Emergency support when families need immediate help covering essential costs."
+      },
+      "foodParcels": {
+        "title": "Relief supplies and food parcels",
+        "description": "Relief supply distribution when possible, including food parcels and essential items."
+      }
+    },
+    "howItWorksTitle": "How it works",
+    "howItWorksSteps": {
+      "one": {
+        "title": "Requests are submitted privately",
+        "description": "Families submit help requests through the official form. We collect only the minimum information needed for coordination."
+      },
+      "two": {
+        "title": "Offers are reviewed",
+        "description": "Housing and supply offers are reviewed privately. We do not publish phone numbers or addresses publicly."
+      },
+      "three": {
+        "title": "Support is prioritized",
+        "description": "Cases are prioritized based on urgency, vulnerability, and available resources."
+      },
+      "four": {
+        "title": "Aid is coordinated and delivered",
+        "description": "Support may include direct emergency assistance or relief supplies and food parcels when possible."
+      },
+      "five": {
+        "title": "Updates are published",
+        "description": "We publish transparency updates and summaries while protecting privacy and safety."
+      }
+    },
+    "officialChannelsTitle": "Official channels",
+    "officialChannels": {
+      "website": "Website: lbrelief.org",
+      "email": "Email: help@lbrelief.org",
+      "lebanon": "Donate from Lebanon: Whish",
+      "abroad": "Donate from abroad: Stripe",
+      "warning": "Use only the official links listed on this website."
+    },
+    "whatWeDoNotAskTitle": "What we do not ask for",
+    "whatWeDoNotAsk": {
+      "item1": "No ID required.",
+      "item2": "No proof photos required.",
+      "item3": "No exact address required in the form."
+    },
+    "whatWeCannotPromiseTitle": "What we cannot promise",
+    "whatWeCannotPromise": "We review every request we receive, but support depends on urgency and available resources.",
+    "supportVisualTitle": "Support banner",
+    "supportVisualAlt": "LB Relief support banner",
+    "safetyTitle": "Safety note",
+    "safety": {
+      "antiFraud": "We never request donations through private messages and we never ask for codes or passwords. Use only the official donation links on this website."
+    }
+  },
+  "donate": {
+    "title": "Donate",
+    "intro": "Every contribution helps. Even 1 dollar can support a family in need.",
+    "donateFromLebanonTitle": "Donate from Lebanon",
+    "donateFromLebanonDescription": "Local donations can be sent through Whish. You may send any amount that you are able to contribute.",
+    "whishInstructions": [
+      "Open the Whish app",
+      "Send money to the official LB Relief Whish ID",
+      "Enter any donation amount",
+      "Optional: add note 'LB Relief donation'"
+    ],
+    "whishButton": "Donate with Whish",
+    "donateFromAbroadTitle": "Donate from Abroad",
+    "donateFromAbroadDescription": "International donations can be made securely by card through our payment link.",
+    "stripeButton": "Donate by Card",
+    "processingNotice": "Donations from abroad are processed through a trusted volunteer partner based outside Lebanon due to payment platform availability.",
+    "cta": "Donate now",
+    "pending": "Donation channel is being finalized. Please check back soon.",
+    "transparencyTitle": "How donations are used",
+    "notes": {
+      "directAid": "Donations support two forms of assistance based on urgency and what is feasible on the ground: direct emergency financial assistance for essential needs and relief parcels or packages",
+      "foodParcels": "Relief supply distribution is done when possible, including food parcels, blankets, hygiene supplies, and other essential items.",
+      "operatingCosts": "Most donations are used for direct assistance and relief supplies. A limited portion may be used for essential operating costs required to deliver aid, including packaging materials, phone and mobile data, transportation and fuel, and platform processing fees. All operating costs are documented and reflected in transparency updates.",
+      "volunteerRelief": "If a volunteer involved in this initiative is also affected and requires assistance, it will be recorded and reported as a relief case using the same documentation and privacy standards applied to all beneficiaries.",
+      "paymentNotice": "This website does not collect or store payment information. Donations are processed through official third party platforms linked on this page.",
+      "antiFraud": "We never request donations through private messages. Donate only through the official links listed on this website."
+    }
+  },
+  "requestHelp": {
+    "title": "Request Help",
+    "intro": "If you or your family need assistance, submit a request through the official form. Requests are reviewed privately. We prioritize urgent cases and respond based on available resources. We cannot guarantee support for every request.",
+    "privacyDignity": "We do not require photos. We do not require IDs. Do not share exact addresses or personal documents in the form. Share only the minimum information needed for coordination.",
+    "emergencyNote": "If you are in immediate danger, seek local emergency assistance.",
+    "cta": "Open request form",
+    "pending": "Request form is being set up.",
+    "minimumInfoTitle": "Privacy and dignity",
+    "minimum": {
+      "summary": "We do not require photos or IDs. Share only the minimum information needed for coordination."
+    }
+  },
+  "offerHelp": {
+    "title": "Offer Help",
+    "intro": "If you can offer housing or physical donations such as blankets, mattresses, or essential supplies, submit an offer through the official form. Offers are reviewed privately. We do not publish addresses or phone numbers publicly.",
+    "pending": "Form is being set up",
+    "notes": {
+      "reviewed": "Offers are reviewed privately.",
+      "housingEthics": "We prioritize free or reasonable cost housing and we do not accept crisis pricing or exploitative terms. We screen offers and contact providers to confirm details.",
+      "physicalDonations": "We coordinate drop off or pickup when feasible and safe.",
+      "sanctuaries": "Religious sanctuaries such as mosques, churches, and community spaces may also submit offers through the sanctuary form."
+    },
+    "housing": {
+      "title": "Housing offers",
+      "description": "Submit housing offers through the official form.",
+      "cta": "Open housing offer form"
+    },
+    "inKind": {
+      "title": "Physical donations",
+      "description": "Submit physical donation offers through the official form.",
+      "cta": "Open physical donation form"
+    },
+    "sanctuary": {
+      "title": "Sanctuaries",
+      "description": "Submit sanctuary offers through the official form.",
+      "cta": "Open sanctuary form"
+    },
+    "volunteer": {
+      "title": "Volunteer",
+      "description": "Join the volunteer team through the official form.",
+      "cta": "Open volunteer form"
+    }
+  },
+  "updates": {
+    "title": "Updates",
+    "intro": "More updates will be posted here.",
+    "launch": {
+      "title": "Update 001: Launch and how to request help",
+      "body": "LB Relief is a volunteer led initiative supporting displaced and affected families across Lebanon. We support families in two ways, based on urgency and what is feasible on the ground: direct emergency assistance for essential needs, and relief supplies and food parcels when possible. If you or your family need assistance, use the official Request Help form. If you can offer housing or physical items, use the official Offer Help forms. We do not require photos or IDs, and we do not publish addresses or phone numbers."
+    },
+    "transparency": {
+      "title": "Transparency 001: How funds and deliveries are documented",
+      "body": "We are committed to transparency while protecting dignity and safety. We publish updates as frequently as possible, including region level summaries, quantities of items delivered when available, and receipts or proof of purchase when possible with sensitive details removed. Operating costs and any volunteer relief support are documented and reflected in public summaries."
+    },
+    "posterAlt": "LB Relief awareness poster",
+    "moreSoon": "More updates will be posted here."
+  },
+  "transparency": {
+    "title": "Transparency",
+    "intro": "We are committed to transparency while protecting dignity and safety.",
+    "summary": {
+      "totalReceived": {
+        "label": "Total received",
+        "value": "$0"
+      },
+      "totalDistributed": {
+        "label": "Total distributed",
+        "value": "$0"
+      },
+      "operatingCosts": {
+        "label": "Operating costs",
+        "value": "$0"
+      },
+      "remainingBalance": {
+        "label": "Remaining balance",
+        "value": "$0"
+      }
+    },
+    "publishingRhythmTitle": "Publishing rhythm",
+    "publishingRhythm": "We share updates as frequently as possible. We also publish periodic summaries that include totals and categories.",
+    "whatPublishTitle": "What we publish",
+    "whatPublish": {
+      "region": "Distribution summaries with region level location.",
+      "quantities": "Quantities of items delivered when available.",
+      "receipts": "Receipts or proof of purchase when possible, with sensitive details removed."
+    },
+    "privacyRulesTitle": "Privacy rules",
+    "privacyRules": "We do not publish names, phone numbers, or exact addresses. We avoid identifiable images of beneficiaries and we avoid identifiable images of children.",
+    "operatingSupportTitle": "Operational costs and volunteer hardship support",
+    "operatingSupport": "See the operating cost and volunteer support statements on the Donate page. All such entries are documented and included in transparency summaries."
+  },
+  "privacy": {
+    "title": "Privacy",
+    "intro": "Minimal privacy notice",
+    "statement": "We collect only the minimum information needed to respond to messages and coordinate support. We do not sell personal data.",
+    "whatCollectTitle": "What we collect",
+    "whatCollect": {
+      "item1": "Contact information and message content submitted through forms."
+    },
+    "whatNotCollectTitle": "What we do not collect",
+    "whatNotCollect": {
+      "item1": "Payment or card details.",
+      "item2": "IDs or proof photos as a requirement."
+    },
+    "dataHandling": "Access is limited to the admin team. Data is retained only as long as needed for coordination."
+  },
+  "contact": {
+    "title": "Contact",
+    "intro": "Official email and impersonation reporting",
+    "primaryLineLabel": "Official email:",
+    "supportNote": "If urgent, use the Request Help form.",
+    "impersonationNote": "If you see accounts collecting donations in our name outside the official links on this website, report it immediately.",
+    "antiFraudReminder": "Never share passwords or codes."
+  },
+  "metadata": {
+    "home": {
+      "title": "LB Relief | Support for displaced families in Lebanon",
+      "description": "Request help, offer housing, or support families with donations."
+    },
+    "donate": {
+      "title": "Donate | LB Relief",
+      "description": "Donation options from Lebanon and abroad, transparency notes, and anti fraud warning."
+    },
+    "requestHelp": {
+      "title": "Request Help | LB Relief",
+      "description": "Private intake explanation and official form button."
+    },
+    "offerHelp": {
+      "title": "Offer Help | LB Relief",
+      "description": "Housing offers, in kind donations, and sanctuaries."
+    },
+    "updates": {
+      "title": "Updates | LB Relief",
+      "description": "Initial public updates and future posts."
+    },
+    "transparency": {
+      "title": "Transparency | LB Relief",
+      "description": "How logging and summaries work."
+    },
+    "privacy": {
+      "title": "Privacy | LB Relief",
+      "description": "Minimal privacy notice."
+    },
+    "contact": {
+      "title": "Contact | LB Relief",
+      "description": "Official email and impersonation reporting."
+    }
+  }
+}
